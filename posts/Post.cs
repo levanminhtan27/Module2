@@ -12,12 +12,9 @@ namespace posts
         public string Content { get; set; }
         public string Author { get; set; }
         public float AverageRate { get; private set; }
-
         public List<int> Counts = new List<int>();
 
-        public Post()
-        {
-        }
+        
         public Post( int ID, string Title, string Content ,string Author, float AverageRate)
         {
             this.ID = ID;
@@ -35,7 +32,7 @@ namespace posts
 
         public void Display()
         {
-            Console.WriteLine( $"{ID}\t{Title}\t{Content}\t{Author}\t{AverageRate}" );       
+            Console.WriteLine( $"{ID}\t{Title}\t{Content}\t{Author}\t{Counts}\t{AverageRate}" );       
         }
 
         public void CalculatorRate()

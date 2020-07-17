@@ -7,12 +7,12 @@ namespace posts
 {
     class Forum
     {
-        public static int increaseID = 0; 
+        public static int increateID = 0; 
         SortedList<int, Post> Posts = new SortedList<int, Post>(); 
         // tham khao anh Vui!!!
         public void Add()
         {
-            increaseID++;
+            increateID++;
             Console.WriteLine("enter title");
             string title = Console.ReadLine();
             Console.WriteLine("enter Author");
@@ -20,7 +20,7 @@ namespace posts
             Console.WriteLine("enter content");
             string content = Console.ReadLine();
             Post newpost = new Post(title, author, content);
-            newpost.ID = increaseID;
+            newpost.ID = increateID;
             Posts.Add(newpost.ID,newpost);
         }
 
@@ -82,20 +82,25 @@ namespace posts
         }
         public void Rating(int id,int rate)
         {
+            bool check = false;
             int keyfound = -1;
             foreach(var key in Posts.Keys)
             {
                 if (key == id)
                 {
+                    check = true;
                     keyfound = key;
+                    Posts[keyfound].Counts.Add(rate);
+                    Posts[keyfound].CalculatorRate();
                     break;
                 }
-                else
-                {
-                    Console.WriteLine("Invalid Post");
-                }
+            
             }
-            Posts[keyfound].Counts.Add(rate);
+            if (!check)
+            {
+                Console.WriteLine("Invalid Post");
+            }
+            
         }
         
     }
