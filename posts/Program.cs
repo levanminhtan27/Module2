@@ -46,7 +46,7 @@ namespace posts
                         GetForum.Remove(getRemove);
                         break;
                     case 4:
-                        Console.WriteLine($"ID\tTitle\tContent\tAuthor\tAverageRate");
+                        Console.WriteLine($"ID\tTitle\tContent\tAuthor\tCount\tAverageRate");
                         GetForum.show();
                         break;
                     case 5:

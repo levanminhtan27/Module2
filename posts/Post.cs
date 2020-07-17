@@ -32,7 +32,7 @@ namespace posts
 
         public void Display()
         {
-            Console.WriteLine( $"{ID}\t{Title}\t{Content}\t{Author}\t{Counts}\t{AverageRate}" );       
+            Console.WriteLine( $"{ID}\t{Title}\t{Content}\t{Author}\t {this.Counts.Count}\t {AverageRate}" );       
         }
 
         public void CalculatorRate()
