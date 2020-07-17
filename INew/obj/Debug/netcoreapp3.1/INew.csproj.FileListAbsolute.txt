@@ -1,0 +1,13 @@
+F:\visual studio\Accessmodifier\INew\bin\Debug\netcoreapp3.1\INew.exe
+F:\visual studio\Accessmodifier\INew\bin\Debug\netcoreapp3.1\INew.deps.json
+F:\visual studio\Accessmodifier\INew\bin\Debug\netcoreapp3.1\INew.runtimeconfig.json
+F:\visual studio\Accessmodifier\INew\bin\Debug\netcoreapp3.1\INew.runtimeconfig.dev.json
+F:\visual studio\Accessmodifier\INew\bin\Debug\netcoreapp3.1\INew.dll
+F:\visual studio\Accessmodifier\INew\bin\Debug\netcoreapp3.1\INew.pdb
+F:\visual studio\Accessmodifier\INew\obj\Debug\netcoreapp3.1\INew.AssemblyInfoInputs.cache
+F:\visual studio\Accessmodifier\INew\obj\Debug\netcoreapp3.1\INew.AssemblyInfo.cs
+F:\visual studio\Accessmodifier\INew\obj\Debug\netcoreapp3.1\INew.csproj.CoreCompileInputs.cache
+F:\visual studio\Accessmodifier\INew\obj\Debug\netcoreapp3.1\INew.dll
+F:\visual studio\Accessmodifier\INew\obj\Debug\netcoreapp3.1\INew.pdb
+F:\visual studio\Accessmodifier\INew\obj\Debug\netcoreapp3.1\INew.genruntimeconfig.cache
+F:\visual studio\Accessmodifier\INew\obj\Debug\netcoreapp3.1\INew.csprojAssemblyReference.cache

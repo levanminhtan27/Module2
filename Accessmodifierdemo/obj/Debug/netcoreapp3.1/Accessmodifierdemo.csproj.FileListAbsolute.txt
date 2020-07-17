@@ -1,0 +1,13 @@
+F:\visual studio\Accessmodifier\Accessmodifierdemo\obj\Debug\netcoreapp3.1\Accessmodifierdemo.csprojAssemblyReference.cache
+F:\visual studio\Accessmodifier\Accessmodifierdemo\obj\Debug\netcoreapp3.1\Accessmodifierdemo.AssemblyInfoInputs.cache
+F:\visual studio\Accessmodifier\Accessmodifierdemo\obj\Debug\netcoreapp3.1\Accessmodifierdemo.AssemblyInfo.cs
+F:\visual studio\Accessmodifier\Accessmodifierdemo\obj\Debug\netcoreapp3.1\Accessmodifierdemo.csproj.CoreCompileInputs.cache
+F:\visual studio\Accessmodifier\Accessmodifierdemo\bin\Debug\netcoreapp3.1\Accessmodifierdemo.exe
+F:\visual studio\Accessmodifier\Accessmodifierdemo\bin\Debug\netcoreapp3.1\Accessmodifierdemo.deps.json
+F:\visual studio\Accessmodifier\Accessmodifierdemo\bin\Debug\netcoreapp3.1\Accessmodifierdemo.runtimeconfig.json
+F:\visual studio\Accessmodifier\Accessmodifierdemo\bin\Debug\netcoreapp3.1\Accessmodifierdemo.runtimeconfig.dev.json
+F:\visual studio\Accessmodifier\Accessmodifierdemo\bin\Debug\netcoreapp3.1\Accessmodifierdemo.dll
+F:\visual studio\Accessmodifier\Accessmodifierdemo\bin\Debug\netcoreapp3.1\Accessmodifierdemo.pdb
+F:\visual studio\Accessmodifier\Accessmodifierdemo\obj\Debug\netcoreapp3.1\Accessmodifierdemo.dll
+F:\visual studio\Accessmodifier\Accessmodifierdemo\obj\Debug\netcoreapp3.1\Accessmodifierdemo.pdb
+F:\visual studio\Accessmodifier\Accessmodifierdemo\obj\Debug\netcoreapp3.1\Accessmodifierdemo.genruntimeconfig.cache

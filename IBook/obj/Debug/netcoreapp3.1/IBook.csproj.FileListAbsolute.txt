@@ -1,0 +1,13 @@
+F:\visual studio\Accessmodifier\IBook\bin\Debug\netcoreapp3.1\IBook.exe
+F:\visual studio\Accessmodifier\IBook\bin\Debug\netcoreapp3.1\IBook.deps.json
+F:\visual studio\Accessmodifier\IBook\bin\Debug\netcoreapp3.1\IBook.runtimeconfig.json
+F:\visual studio\Accessmodifier\IBook\bin\Debug\netcoreapp3.1\IBook.runtimeconfig.dev.json
+F:\visual studio\Accessmodifier\IBook\bin\Debug\netcoreapp3.1\IBook.dll
+F:\visual studio\Accessmodifier\IBook\bin\Debug\netcoreapp3.1\IBook.pdb
+F:\visual studio\Accessmodifier\IBook\obj\Debug\netcoreapp3.1\IBook.csprojAssemblyReference.cache
+F:\visual studio\Accessmodifier\IBook\obj\Debug\netcoreapp3.1\IBook.AssemblyInfoInputs.cache
+F:\visual studio\Accessmodifier\IBook\obj\Debug\netcoreapp3.1\IBook.AssemblyInfo.cs
+F:\visual studio\Accessmodifier\IBook\obj\Debug\netcoreapp3.1\IBook.csproj.CoreCompileInputs.cache
+F:\visual studio\Accessmodifier\IBook\obj\Debug\netcoreapp3.1\IBook.dll
+F:\visual studio\Accessmodifier\IBook\obj\Debug\netcoreapp3.1\IBook.pdb
+F:\visual studio\Accessmodifier\IBook\obj\Debug\netcoreapp3.1\IBook.genruntimeconfig.cache

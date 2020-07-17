@@ -1,0 +1,13 @@
+F:\visual studio\Accessmodifier\Circle\bin\Debug\netcoreapp3.1\Circle.exe
+F:\visual studio\Accessmodifier\Circle\bin\Debug\netcoreapp3.1\Circle.deps.json
+F:\visual studio\Accessmodifier\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.json
+F:\visual studio\Accessmodifier\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.dev.json
+F:\visual studio\Accessmodifier\Circle\bin\Debug\netcoreapp3.1\Circle.dll
+F:\visual studio\Accessmodifier\Circle\bin\Debug\netcoreapp3.1\Circle.pdb
+F:\visual studio\Accessmodifier\Circle\obj\Debug\netcoreapp3.1\Circle.csprojAssemblyReference.cache
+F:\visual studio\Accessmodifier\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfoInputs.cache
+F:\visual studio\Accessmodifier\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfo.cs
+F:\visual studio\Accessmodifier\Circle\obj\Debug\netcoreapp3.1\Circle.csproj.CoreCompileInputs.cache
+F:\visual studio\Accessmodifier\Circle\obj\Debug\netcoreapp3.1\Circle.dll
+F:\visual studio\Accessmodifier\Circle\obj\Debug\netcoreapp3.1\Circle.pdb
+F:\visual studio\Accessmodifier\Circle\obj\Debug\netcoreapp3.1\Circle.genruntimeconfig.cache

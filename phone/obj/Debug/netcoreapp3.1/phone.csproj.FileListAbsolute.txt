@@ -1,0 +1,13 @@
+F:\visual studio\Accessmodifier\phone\bin\Debug\netcoreapp3.1\phone.exe
+F:\visual studio\Accessmodifier\phone\bin\Debug\netcoreapp3.1\phone.deps.json
+F:\visual studio\Accessmodifier\phone\bin\Debug\netcoreapp3.1\phone.runtimeconfig.json
+F:\visual studio\Accessmodifier\phone\bin\Debug\netcoreapp3.1\phone.runtimeconfig.dev.json
+F:\visual studio\Accessmodifier\phone\bin\Debug\netcoreapp3.1\phone.dll
+F:\visual studio\Accessmodifier\phone\bin\Debug\netcoreapp3.1\phone.pdb
+F:\visual studio\Accessmodifier\phone\obj\Debug\netcoreapp3.1\phone.csprojAssemblyReference.cache
+F:\visual studio\Accessmodifier\phone\obj\Debug\netcoreapp3.1\phone.AssemblyInfoInputs.cache
+F:\visual studio\Accessmodifier\phone\obj\Debug\netcoreapp3.1\phone.AssemblyInfo.cs
+F:\visual studio\Accessmodifier\phone\obj\Debug\netcoreapp3.1\phone.csproj.CoreCompileInputs.cache
+F:\visual studio\Accessmodifier\phone\obj\Debug\netcoreapp3.1\phone.dll
+F:\visual studio\Accessmodifier\phone\obj\Debug\netcoreapp3.1\phone.pdb
+F:\visual studio\Accessmodifier\phone\obj\Debug\netcoreapp3.1\phone.genruntimeconfig.cache

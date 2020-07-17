@@ -1,0 +1,13 @@
+F:\visual studio\Accessmodifier\posts\bin\Debug\netcoreapp3.1\posts.exe
+F:\visual studio\Accessmodifier\posts\bin\Debug\netcoreapp3.1\posts.deps.json
+F:\visual studio\Accessmodifier\posts\bin\Debug\netcoreapp3.1\posts.runtimeconfig.json
+F:\visual studio\Accessmodifier\posts\bin\Debug\netcoreapp3.1\posts.runtimeconfig.dev.json
+F:\visual studio\Accessmodifier\posts\bin\Debug\netcoreapp3.1\posts.dll
+F:\visual studio\Accessmodifier\posts\bin\Debug\netcoreapp3.1\posts.pdb
+F:\visual studio\Accessmodifier\posts\obj\Debug\netcoreapp3.1\posts.csprojAssemblyReference.cache
+F:\visual studio\Accessmodifier\posts\obj\Debug\netcoreapp3.1\posts.AssemblyInfoInputs.cache
+F:\visual studio\Accessmodifier\posts\obj\Debug\netcoreapp3.1\posts.AssemblyInfo.cs
+F:\visual studio\Accessmodifier\posts\obj\Debug\netcoreapp3.1\posts.csproj.CoreCompileInputs.cache
+F:\visual studio\Accessmodifier\posts\obj\Debug\netcoreapp3.1\posts.dll
+F:\visual studio\Accessmodifier\posts\obj\Debug\netcoreapp3.1\posts.pdb
+F:\visual studio\Accessmodifier\posts\obj\Debug\netcoreapp3.1\posts.genruntimeconfig.cache

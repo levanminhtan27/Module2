@@ -1,0 +1,13 @@
+F:\visual studio\Accessmodifier\kethua\bin\Debug\netcoreapp3.1\kethua.exe
+F:\visual studio\Accessmodifier\kethua\bin\Debug\netcoreapp3.1\kethua.deps.json
+F:\visual studio\Accessmodifier\kethua\bin\Debug\netcoreapp3.1\kethua.runtimeconfig.json
+F:\visual studio\Accessmodifier\kethua\bin\Debug\netcoreapp3.1\kethua.runtimeconfig.dev.json
+F:\visual studio\Accessmodifier\kethua\bin\Debug\netcoreapp3.1\kethua.dll
+F:\visual studio\Accessmodifier\kethua\bin\Debug\netcoreapp3.1\kethua.pdb
+F:\visual studio\Accessmodifier\kethua\obj\Debug\netcoreapp3.1\kethua.csprojAssemblyReference.cache
+F:\visual studio\Accessmodifier\kethua\obj\Debug\netcoreapp3.1\kethua.AssemblyInfoInputs.cache
+F:\visual studio\Accessmodifier\kethua\obj\Debug\netcoreapp3.1\kethua.AssemblyInfo.cs
+F:\visual studio\Accessmodifier\kethua\obj\Debug\netcoreapp3.1\kethua.csproj.CoreCompileInputs.cache
+F:\visual studio\Accessmodifier\kethua\obj\Debug\netcoreapp3.1\kethua.dll
+F:\visual studio\Accessmodifier\kethua\obj\Debug\netcoreapp3.1\kethua.pdb
+F:\visual studio\Accessmodifier\kethua\obj\Debug\netcoreapp3.1\kethua.genruntimeconfig.cache
